@@ -6,6 +6,6 @@ public class Main {
         //Cadastro de Músicas
         //Cadastro de Compositor
         //Cadastro de Cantor
-        //Cadastro de Editora
+        //Cadastro de Editorq
     }
 }
